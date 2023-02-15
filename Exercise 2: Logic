@@ -1,0 +1,6 @@
+je prend une direction aleatoire pour le depart seulement et je parcours une distance x par eexemple x=50 km
+
+* si je le trouve c'est bon
+* sinon je retourne a ma position intial x=-50 sens inverse et je parcours la mm distance x depuis ma position de depart sauf dans le sens inverse 
+** si le trouve c'est bon
+** sinon je repete l'instruction sauf avec distacne x+i (i s'incremente chque fois ) jusqu'a ce je le trouve 
